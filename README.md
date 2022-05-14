@@ -6,7 +6,7 @@ This is a basic calculator made in Python, it cannot perform very complex functi
 
 
 # How to Install
-It is easy to install this project, all you have to do is to save the .py file in a folder and go to that folder with the terminal of your OS.
+It is easy to install this project, all you have to do is to save the .py file in a folder and go to that folder with the terminal of your OS and run it the following syntax: "py basic"
 
 # How to Use
 
