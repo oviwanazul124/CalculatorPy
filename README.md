@@ -11,3 +11,7 @@ It is easy to install this project, all you have to do is to save the .py file i
 # How to Use
 
 In the program itself you have a basic explanation of the program
+
+# Know Bugs
+
+If you find any bug let me know (A bug is not that it crashes when divided by 0)
