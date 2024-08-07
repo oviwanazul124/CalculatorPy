@@ -1,17 +1,24 @@
-# BasicCalculatorPy
----
 # Description
 
-This is a basic calculator made in Python, it cannot perform very complex functions.
+This is a calculator that has been made from zero, it dosen't use the <a href="https://docs.python.org/3/library/math.html">math</a> library function. Right now can only perfom basic operations like addition, subtraction, multiplication and division. Also in the last version has been added roots <a href=#how-to-install-and-use>more info</a>. I have used python in this project, as it is known as a language widely used in statistics. It is also the one I am most skilled in. I hope over the days when I update the project to add more mathematical functions such as:
 
+- Logarithms
+- Mathematical Limits
+- Trigonometry
+- Basic Algebra
 
-# How to Install
-It is easy to install this project, all you have to do is to save the .py file in a folder and go to that folder with the terminal of your OS and run it the following syntax: "py BasicCalculator Py"
+# How to Install and Use
+Currently the project was developed in <a href="https://www.python.org/downloads/release/python-3124">python</a> 3.12.4. In order to run the project you need to have python installed. As it has been made from zero it does not need any external libraries as everything is developed with the basic functions provided by the programming language.
 
-# How to Use
+**WINDOWS**
 
-In the program itself you have a basic explanation of the program
+``py calculator.py`` or ``python3 calculator.py``
 
-# Know Bugs
+**LINUX AND MACOS**
 
-If you find any bug let me know (A bug is not that it crashes when divided by 0)
+``python3 calculator.py``
+
+To use it is quite simple, all you need to do is follow the different instructions that appear on the screen. For example this:
+
+``Welcome to the calculator please enter the followings symbols to make a calculation.``
+
